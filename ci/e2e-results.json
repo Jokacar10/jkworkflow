@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-20T15:02:19.922Z",
-  "commit": "560dda301409092360ebe834f6a35058e7bb77fa",
+  "lastUpdated": "2025-12-22T21:40:02.688Z",
+  "commit": "3f0a2e76d2eb075a63b4581471dd96fe7b517e45",
   "branch": "main",
   "type": "e2e",
   "worlds": {
@@ -42,8 +42,8 @@
     },
     "local": {
       "status": "partial",
-      "total": 675,
-      "passed": 658,
+      "total": 648,
+      "passed": 631,
       "failed": 1,
       "skipped": 16,
       "frameworks": {
@@ -69,12 +69,12 @@
         },
         "nextjs-turbopack": {
           "total": 135,
-          "passed": 135,
-          "failed": 0
+          "passed": 134,
+          "failed": 1
         },
         "nextjs-webpack": {
-          "total": 108,
-          "passed": 108,
+          "total": 81,
+          "passed": 81,
           "failed": 0
         },
         "nitro": {
@@ -89,8 +89,8 @@
         },
         "sveltekit": {
           "total": 54,
-          "passed": 51,
-          "failed": 1
+          "passed": 52,
+          "failed": 0
         },
         "vite": {
           "total": 54,
