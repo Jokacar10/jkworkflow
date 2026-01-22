@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-22T03:37:32.759Z",
-  "commit": "5ba82ec4b105d11538be6ad65449986eaf945916",
+  "lastUpdated": "2026-01-22T09:06:39.412Z",
+  "commit": "7023d5e10e48570b60cdbcc7a8153e68721cdc9f",
   "branch": "main",
   "type": "e2e",
   "worlds": {
@@ -14,13 +14,13 @@
       "progress": 98
     },
     "redis": {
-      "status": "partial",
+      "status": "passing",
       "total": 47,
-      "passed": 46,
-      "failed": 1,
+      "passed": 47,
+      "failed": 0,
       "skipped": 0,
       "frameworks": {},
-      "progress": 98
+      "progress": 100
     },
     "starter": {
       "status": "partial",
@@ -41,10 +41,10 @@
       "progress": 98
     },
     "local": {
-      "status": "passing",
+      "status": "partial",
       "total": 1100,
-      "passed": 1036,
-      "failed": 0,
+      "passed": 996,
+      "failed": 40,
       "skipped": 64,
       "frameworks": {
         "astro": {
@@ -79,8 +79,8 @@
         },
         "nitro": {
           "total": 88,
-          "passed": 80,
-          "failed": 0
+          "passed": 40,
+          "failed": 40
         },
         "nuxt": {
           "total": 88,
@@ -98,7 +98,7 @@
           "failed": 0
         }
       },
-      "progress": 94
+      "progress": 91
     },
     "postgres": {
       "status": "passing",
