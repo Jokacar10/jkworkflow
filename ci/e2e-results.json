@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-02-08T06:17:14.103Z",
-  "commit": "fcfaf8bbaa912b1767c646592e539d5f98cd1e9c",
+  "lastUpdated": "2026-02-08T15:04:04.528Z",
+  "commit": "d9e98590fae17fd090e0be4f0b54bbaa80c7be69",
   "branch": "main",
   "type": "e2e",
   "worlds": {
     "mongodb": {
       "status": "partial",
       "total": 51,
-      "passed": 11,
-      "failed": 37,
+      "passed": 8,
+      "failed": 40,
       "skipped": 3,
       "frameworks": {},
-      "progress": 22
+      "progress": 16
     },
     "redis": {
       "status": "partial",
       "total": 51,
-      "passed": 11,
-      "failed": 37,
+      "passed": 8,
+      "failed": 40,
       "skipped": 3,
       "frameworks": {},
-      "progress": 22
+      "progress": 16
     },
     "starter": {
       "status": "partial",
