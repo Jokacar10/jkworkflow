@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-27T03:52:03.415Z",
-  "commit": "6930e3c7635815072758e421e8cb17454efe927e",
+  "lastUpdated": "2026-02-27T09:17:50.578Z",
+  "commit": "905b94ac12bdedbeebc44b941c23e25a5ed02968",
   "branch": "main",
   "type": "e2e",
   "worlds": {
@@ -92,10 +92,10 @@
       "progress": 89
     },
     "postgres": {
-      "status": "passing",
+      "status": "partial",
       "total": 676,
-      "passed": 601,
-      "failed": 0,
+      "passed": 599,
+      "failed": 2,
       "skipped": 75,
       "frameworks": {
         "astro": {
@@ -120,13 +120,13 @@
         },
         "nextjs-turbopack": {
           "total": 104,
-          "passed": 98,
-          "failed": 0
+          "passed": 97,
+          "failed": 1
         },
         "nextjs-webpack": {
           "total": 104,
-          "passed": 98,
-          "failed": 0
+          "passed": 97,
+          "failed": 1
         },
         "nitro": {
           "total": 52,
