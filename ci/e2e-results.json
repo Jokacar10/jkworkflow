@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-06T08:51:20.721Z",
-  "commit": "dff00c94008f60cbfb4a398f2b98101d80ee8377",
+  "lastUpdated": "2026-03-06T22:11:22.733Z",
+  "commit": "15e6bc008c93055081c0ee7a8e4858af499528e6",
   "branch": "main",
   "type": "e2e",
   "worlds": {
@@ -110,8 +110,8 @@
         },
         "fastify": {
           "total": 56,
-          "passed": 46,
-          "failed": 1
+          "passed": 47,
+          "failed": 0
         },
         "hono": {
           "total": 56,
@@ -125,8 +125,8 @@
         },
         "nextjs-webpack": {
           "total": 112,
-          "passed": 106,
-          "failed": 0
+          "passed": 105,
+          "failed": 1
         },
         "nitro": {
           "total": 56,
