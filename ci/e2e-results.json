@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-03-18T03:27:01.955Z",
-  "commit": "2cc42cb8a934532d9ce5b05185322a2f9ce76024",
+  "lastUpdated": "2026-03-18T09:23:10.958Z",
+  "commit": "31bc57e513e13e5bb058d1ce4ba8aa66ec504c29",
   "branch": "main",
   "type": "e2e",
   "worlds": {
     "mongodb": {
       "status": "partial",
       "total": 63,
-      "passed": 55,
-      "failed": 3,
+      "passed": 56,
+      "failed": 2,
       "skipped": 5,
       "frameworks": {},
-      "progress": 87
+      "progress": 89
     },
     "redis": {
       "status": "partial",
@@ -115,8 +115,8 @@
         },
         "hono": {
           "total": 75,
-          "passed": 65,
-          "failed": 1
+          "passed": 66,
+          "failed": 0
         },
         "nextjs-turbopack": {
           "total": 150,
@@ -135,8 +135,8 @@
         },
         "nuxt": {
           "total": 75,
-          "passed": 66,
-          "failed": 0
+          "passed": 65,
+          "failed": 1
         },
         "sveltekit": {
           "total": 75,
