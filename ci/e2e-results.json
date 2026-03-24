@@ -1,42 +1,42 @@
 {
-  "lastUpdated": "2026-03-24T03:28:48.536Z",
-  "commit": "7c31cd7714667244049707b9052bfaf79dd2012f",
+  "lastUpdated": "2026-03-24T09:52:13.165Z",
+  "commit": "ef4ca00b77117e0b0a4ed122d45d38776d6aeccd",
   "branch": "main",
   "type": "e2e",
   "worlds": {
     "mongodb": {
       "status": "partial",
       "total": 68,
-      "passed": 56,
-      "failed": 2,
-      "skipped": 10,
+      "passed": 57,
+      "failed": 3,
+      "skipped": 8,
       "frameworks": {},
-      "progress": 82
+      "progress": 84
     },
     "redis": {
       "status": "partial",
       "total": 68,
-      "passed": 56,
+      "passed": 58,
       "failed": 2,
-      "skipped": 10,
+      "skipped": 8,
       "frameworks": {},
-      "progress": 82
+      "progress": 85
     },
     "turso": {
       "status": "partial",
       "total": 68,
-      "passed": 7,
+      "passed": 9,
       "failed": 51,
-      "skipped": 10,
+      "skipped": 8,
       "frameworks": {},
-      "progress": 10
+      "progress": 13
     },
     "local": {
-      "status": "partial",
-      "total": 2160,
-      "passed": 1767,
-      "failed": 1,
-      "skipped": 392,
+      "status": "passing",
+      "total": 2000,
+      "passed": 1630,
+      "failed": 0,
+      "skipped": 370,
       "frameworks": {
         "astro": {
           "total": 160,
@@ -60,17 +60,12 @@
         },
         "nextjs-turbopack": {
           "total": 400,
-          "passed": 325,
-          "failed": 1
-        },
-        "nextjs-webpack": {
-          "total": 320,
-          "passed": 254,
+          "passed": 326,
           "failed": 0
         },
-        "nitro": {
-          "total": 160,
-          "passed": 132,
+        "nextjs-webpack": {
+          "total": 240,
+          "passed": 182,
           "failed": 0
         },
         "nuxt": {
@@ -86,6 +81,11 @@
         "vite": {
           "total": 160,
           "passed": 132,
+          "failed": 0
+        },
+        "nitro": {
+          "total": 80,
+          "passed": 66,
           "failed": 0
         }
       },
