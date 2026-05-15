@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-15T04:45:27.928Z",
-  "commit": "4708a77a35a160545adcbb145d0ad67f1919a608",
+  "lastUpdated": "2026-05-15T22:45:35.884Z",
+  "commit": "c43e721efc90e93575f0e1f36221b69d50074187",
   "branch": "main",
   "type": "e2e",
   "worlds": {
@@ -53,8 +53,8 @@
         },
         "sveltekit": {
           "total": 258,
-          "passed": 245,
-          "failed": 1
+          "passed": 246,
+          "failed": 0
         },
         "vite": {
           "total": 258,
