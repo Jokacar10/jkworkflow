@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-20T10:41:25.423Z",
-  "commit": "1bc75ce079ffe1ee018efc3bf91401e94e841236",
+  "lastUpdated": "2026-05-20T17:48:05.343Z",
+  "commit": "2c159f485054e89f032423b1d088717814667e43",
   "branch": "main",
   "type": "e2e",
   "worlds": {
     "local": {
-      "status": "partial",
+      "status": "passing",
       "total": 4257,
-      "passed": 3718,
-      "failed": 1,
+      "passed": 3719,
+      "failed": 0,
       "skipped": 538,
       "frameworks": {
         "astro": {
@@ -48,8 +48,8 @@
         },
         "nuxt": {
           "total": 258,
-          "passed": 207,
-          "failed": 1
+          "passed": 208,
+          "failed": 0
         },
         "sveltekit": {
           "total": 258,
