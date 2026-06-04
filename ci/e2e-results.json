@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-04T04:57:06.104Z",
-  "commit": "3a16272bd363d56de58c81ef4dba75b89897a749",
+  "lastUpdated": "2026-06-04T22:03:20.050Z",
+  "commit": "ff66ee9f2b39f9c879d260630c4e386f90811966",
   "branch": "main",
   "type": "e2e",
   "worlds": {
@@ -18,8 +18,8 @@
         },
         "express": {
           "total": 272,
-          "passed": 219,
-          "failed": 1
+          "passed": 220,
+          "failed": 0
         },
         "fastify": {
           "total": 272,
