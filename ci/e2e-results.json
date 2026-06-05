@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-04T22:03:20.050Z",
-  "commit": "ff66ee9f2b39f9c879d260630c4e386f90811966",
+  "lastUpdated": "2026-06-05T03:14:51.773Z",
+  "commit": "63f1a9906dbcad09cd9b13fcf0be0147142a3385",
   "branch": "main",
   "type": "e2e",
   "worlds": {
@@ -43,8 +43,8 @@
         },
         "nitro": {
           "total": 272,
-          "passed": 220,
-          "failed": 0
+          "passed": 219,
+          "failed": 1
         },
         "nuxt": {
           "total": 272,
