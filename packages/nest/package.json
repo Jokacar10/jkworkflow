@@ -63,7 +63,7 @@
     "@types/node": "catalog:",
     "@workflow/tsconfig": "workspace:*",
     "typescript": "catalog:",
-    "vitest": "catalog:"
+    "vitest": "4.1.8"
   },
   "license": "Apache-2.0",
   "repository": {
