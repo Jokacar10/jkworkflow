@@ -47,7 +47,7 @@
     "@types/watchpack": "2.4.4",
     "@workflow/tsconfig": "workspace:*",
     "next": "16.2.1",
-    "vitest": "catalog:"
+    "vitest": "4.1.8"
   },
   "peerDependencies": {
     "next": ">13"
