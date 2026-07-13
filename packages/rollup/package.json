@@ -36,6 +36,6 @@
     "@types/node": "catalog:",
     "@workflow/tsconfig": "workspace:*",
     "rollup": "^4.62.2",
-    "vitest": "catalog:"
+    "vitest": "4.1.8"
   }
 }
