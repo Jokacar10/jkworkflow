@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-07-22T03:55:46.363Z",
-  "commit": "fe12b847291912cf9e47143ee10c73828dbdf1a1",
+  "lastUpdated": "2026-07-22T22:08:42.534Z",
+  "commit": "1225258b5da66be40749c17d12c4e24d32197aa2",
   "branch": "main",
   "type": "e2e",
   "worlds": {
     "local": {
-      "status": "passing",
+      "status": "partial",
       "total": 4466,
-      "passed": 3908,
-      "failed": 0,
+      "passed": 3907,
+      "failed": 1,
       "skipped": 558,
       "frameworks": {
         "astro": {
@@ -58,11 +58,11 @@
         },
         "vite": {
           "total": 308,
-          "passed": 256,
-          "failed": 0
+          "passed": 255,
+          "failed": 1
         }
       },
-      "progress": 88
+      "progress": 87
     },
     "postgres": {
       "status": "passing",
