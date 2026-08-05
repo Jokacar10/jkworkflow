@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-05T04:20:19.571Z",
-  "commit": "de1905f15c0a31f272966ac518ebf272864ea5c6",
+  "lastUpdated": "2026-08-05T06:23:34.094Z",
+  "commit": "1222aab74da39b4a7ae93e6c5ecc2dc4707b68d0",
   "branch": "main",
   "type": "e2e",
   "worlds": {
@@ -14,10 +14,10 @@
       "progress": 88
     },
     "postgres": {
-      "status": "partial",
+      "status": "passing",
       "total": 4368,
-      "passed": 3809,
-      "failed": 1,
+      "passed": 3810,
+      "failed": 0,
       "skipped": 558,
       "frameworks": {},
       "progress": 87
