@@ -43,7 +43,7 @@
     "cbor-x": "1.6.0",
     "ulid": "catalog:",
     "undici": "catalog:",
-    "ws": "^8.20.0",
+    "ws": "^8.21.0",
     "zod": "catalog:"
   },
   "peerDependencies": {
