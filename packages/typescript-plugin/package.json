@@ -44,6 +44,6 @@
     "@workflow/core": "workspace:*",
     "@workflow/tsconfig": "workspace:*",
     "typescript": "catalog:",
-    "vitest": "catalog:"
+    "vitest": "4.1.11"
   }
 }
