@@ -60,7 +60,7 @@
     "zod": "catalog:"
   },
   "devDependencies": {
-    "@testcontainers/postgresql": "11.12.0",
+    "@testcontainers/postgresql": "12.0.0",
     "@types/node": "catalog:",
     "@types/pg": "8.20.0",
     "@workflow/errors": "workspace:*",
@@ -68,8 +68,8 @@
     "@workflow/world-testing": "workspace:*",
     "drizzle-kit": "0.31.9",
     "typescript": "catalog:",
-    "undici": "catalog:",
-    "vitest": "catalog:"
+    "undici": "7.29.1",
+    "vitest": "4.1.11"
   },
   "keywords": [],
   "author": "",
